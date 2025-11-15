@@ -4,21 +4,21 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👨‍🌾 Farmers
+### Farmers
 - Create sell posts (crops, vegetables, fruits)
 - View buyer requirement posts
 - View nearby delivery providers
 - Contact buyers directly
 - Can be registered/managed by Agents (no password needed)
 
-### 🛒 Buyers
+### Buyers
 - Create buy posts
 - View sell posts from farmers
 - Contact farmers directly
 
-### 🚚 Delivery Providers
+### Delivery Providers
 - Create delivery service posts including:
   - Vehicle type  
   - Loading capacity  
@@ -26,7 +26,7 @@
   - Location  
 - Visible to both farmers and buyers
 
-### 🧑‍💼 Agents
+### Agents
 - Register farmers using NIC, name, phone, location  
 - Create posts on behalf of farmers  
 - "Act as Farmer" mode  
@@ -35,9 +35,9 @@
 
 ---
 
-## 💰 Payment System
+## Payment System
 
-### 🔹 1. Platform Payments (Self-Registered Users)
+### 1. Platform Payments (Self-Registered Users)
 
 Self-registered:
 - Farmers  
@@ -57,11 +57,12 @@ Platform fees are non-refundable unless a double charge occurs.
 
 ---
 
-### 🔹 2. Agent-Handled Payments (Offline)
+### 2. Agent-Handled Payments (Offline)
 
 When a farmer is registered by an agent:
 
 - The **agent collects money offline (cash/manual)**  
 - The platform **does not charge the farmer**
 - The farmer account/post is activated with:
+
 
