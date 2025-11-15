@@ -1,5 +1,8 @@
 # ගොවිBiz🌾 – Village Market Connect
 
+
+LINK - https://govibiz.xo.je/
+
 ගොවිBiz🌾is a web-based platform designed to connect **Farmers, Buyers, Delivery Providers, and Field Agents** inside a unified digital marketplace. The platform aims to eliminate middlemen, ensure fair pricing, simplify logistics, and empower rural communities with digital trade tools.
 
 ---
@@ -64,5 +67,6 @@ When a farmer is registered by an agent:
 - The **agent collects money offline (cash/manual)**  
 - The platform **does not charge the farmer**
 - The farmer account/post is activated with:
+
 
 
