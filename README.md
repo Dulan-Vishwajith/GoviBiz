@@ -66,3 +66,4 @@ Payments can be handled online or offline depending on configuration.
 ## 📦 Folder Structure
 
 
+
