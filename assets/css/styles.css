@@ -1,0 +1,29 @@
+/* styles.css - minimal clean style */
+body { font-family: Arial, Helvetica, sans-serif; background:#f5f7fb; color:#222; margin:0; }
+.container { max-width:1000px; margin:30px auto; padding:20px; }
+.form-box { background:#fff; padding:18px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); width:420px; margin:40px auto; }
+label{ display:block; margin-top:8px; font-weight:600; }
+input[type=text], input[type=email], input[type=password], textarea, select, input[type=number], input[type=date] {
+  width:100%; padding:8px; margin-top:6px; border-radius:6px; border:1px solid #ddd;
+}
+button, .btn { background:#0b66c3; color:#fff; padding:8px 12px; border-radius:6px; border:none; cursor:pointer; text-decoration:none; display:inline-block; }
+.btn.small { padding:6px 8px; font-size:12px; }
+header { display:flex; justify-content:space-between; align-items:center; margin-bottom:20px; }
+.card { background:#fff; padding:12px; border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.04); margin-bottom:12px; }
+.grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(280px,1fr)); gap:12px; }
+.error { background:#ffe6e6; padding:8px; color:#900; border-radius:6px; margin-bottom:8px; }
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 12px 0;
+    background: rgba(0,0,0,0.6);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    backdrop-filter: blur(5px);
+    z-index: 10;
+    text-shadow: 1px 1px 4px black;
+}
