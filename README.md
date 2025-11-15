@@ -1,7 +1,6 @@
-# 🌾 ගොවිBiz / GramaBiz – Village Market Connect
+# ගොවිBiz🌾 – Village Market Connect
 
-GramaBiz is a web-based platform designed to connect **Farmers, Buyers, Delivery Providers, and Field Agents** inside a unified digital marketplace.  
-The platform aims to eliminate middlemen, ensure fair pricing, simplify logistics, and empower rural communities with digital trade tools.
+ගොවිBiz🌾is a web-based platform designed to connect **Farmers, Buyers, Delivery Providers, and Field Agents** inside a unified digital marketplace. The platform aims to eliminate middlemen, ensure fair pricing, simplify logistics, and empower rural communities with digital trade tools.
 
 ---
 
@@ -11,8 +10,8 @@ The platform aims to eliminate middlemen, ensure fair pricing, simplify logistic
 - Create sell posts (crops, vegetables, fruits)
 - View buyer requirement posts
 - View nearby delivery providers
-- Managed by Agents if farmer cannot use technology
-- Agent-created farmers do not need password login
+- Contact buyers directly
+- Can be registered/managed by Agents (no password needed)
 
 ### 🛒 Buyers
 - Create buy posts
@@ -20,7 +19,7 @@ The platform aims to eliminate middlemen, ensure fair pricing, simplify logistic
 - Contact farmers directly
 
 ### 🚚 Delivery Providers
-- Create delivery posts with:
+- Create delivery service posts including:
   - Vehicle type  
   - Loading capacity  
   - Rate per kilometer  
@@ -28,42 +27,41 @@ The platform aims to eliminate middlemen, ensure fair pricing, simplify logistic
 - Visible to both farmers and buyers
 
 ### 🧑‍💼 Agents
-- Register farmers (without password)
-- Create posts on behalf of farmers
-- Charge farmers offline for services
+- Register farmers using NIC, name, phone, location  
+- Create posts on behalf of farmers  
 - "Act as Farmer" mode  
-- Manage farmer accounts
+- Manage all farmers they created  
+- Charge farmers offline for services
 
 ---
 
 ## 💰 Payment System
 
-### 🔹 Normal Users (Farmer, Buyer, Delivery Provider)
-Must pay:
-- Account creation fee  
-- Post creation fee  
+### 🔹 1. Platform Payments (Self-Registered Users)
 
-Payments can be handled online or offline depending on configuration.
+Self-registered:
+- Farmers  
+- Buyers  
+- Delivery Providers  
 
-### 🔹 Agents
-- **Do not pay the platform**
-- **Collect money directly from farmers**
-- Payments are offline (cash/manual)
-- Platform only marks accounts/posts as “paid_by_agent”
+must pay:
+- **Account Creation Fee**
+- **Post Creation Fee**
 
----
+Payments may be handled via:
+- Cash deposit  
+- Online methods (future-ready)  
+- Mobile payments  
 
-## 🗂 Technology Stack
-
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP 8+  
-- **Database:** MySQL (XAMPP / online hosting)  
-- **Hosting:** Local XAMPP or InfinityFree (Free hosting)  
-- **Version Control:** Git / GitHub  
+Platform fees are non-refundable unless a double charge occurs.
 
 ---
 
-## 📦 Folder Structure
+### 🔹 2. Agent-Handled Payments (Offline)
 
+When a farmer is registered by an agent:
 
+- The **agent collects money offline (cash/manual)**  
+- The platform **does not charge the farmer**
+- The farmer account/post is activated with:
 
